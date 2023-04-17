@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RFIDArduinoUserData
+</name>
+</assembly>
+<members>
+<member name="P:RFID_Arduino_User_Data.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.click_to_browse_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Connected">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Disconnect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Disconnected">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Disconnected1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Disconnected2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.en">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_add_user_male">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_check_all_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_check_all_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_checked_user_male">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_clear_formatting_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_clear_formatting_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_delete_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_disconnected_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_refresh_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_refresh_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_trash_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_uncheck_all">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_usb_connector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.icons8_user_folder_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Loading_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.Loading_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.SecurityAndMaintenance_Error">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.url">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.User1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.User1___Copie">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Arduino_User_Data.My.Resources.Resources.User1___Copie_copie">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RFID_Arduino_User_Data.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

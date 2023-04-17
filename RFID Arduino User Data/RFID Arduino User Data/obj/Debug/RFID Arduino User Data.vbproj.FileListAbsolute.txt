@@ -1,0 +1,12 @@
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\bin\Debug\RFID Arduino User Data.exe.config
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\bin\Debug\RFID Arduino User Data.exe
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\bin\Debug\RFID Arduino User Data.pdb
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\bin\Debug\RFID Arduino User Data.xml
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID_Arduino_User_Data.Form1.resources
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID_Arduino_User_Data.Resources.resources
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID Arduino User Data.vbproj.GenerateResource.Cache
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID Arduino User Data.exe
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID Arduino User Data.xml
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID Arduino User Data.pdb
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\obj\Debug\RFID Arduino User Data.vbprojResolveAssemblyReference.cache
+C:\Users\BLACK GOLD\Documents\Visual Studio 2012\Projects\RFID Arduino User Data\RFID Arduino User Data\bin\Debug\mysql.data.dll
